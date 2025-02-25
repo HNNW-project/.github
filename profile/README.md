@@ -1,5 +1,8 @@
 #  Project HNNW
 
+## Management
+- [Project HNNW (Het Nieuwe² Werken)](https://github.com/orgs/HNNW-project/projects/1/views/1)
+
 ## Tech stack
 - Source: https://github.com/HNNW-project/
 - Website: [Het Nieuwe² Werken](https://hnnw.nl/)
