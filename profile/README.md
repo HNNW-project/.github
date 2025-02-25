@@ -7,7 +7,7 @@
 - Source: https://github.com/HNNW-project/
 - Website: [Het Nieuwe² Werken](https://hnnw.nl/)
 
-### Frontend
+### Frontend [[Client]](https://github.com/HNNW-project/client)
 * Vue.js
 * TypeScript
 * Tailwind CSS
